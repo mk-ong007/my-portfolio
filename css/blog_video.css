@@ -1,0 +1,17 @@
+
+#videos .video-section .content-part .video-title{font-size:31px;font-weight:600;line-height:1.5;margin-bottom:13px}
+#videos .video-section .content-part .video-description{font-size:16px;line-height:2}
+#videos .video-section .content-part .video-description:last-child{margin-bottom:0}
+#videos .video-section .video-part 
+#videos .video-section .video-part .embed-responsive-item:before{background-color:rgba(0,0,0,.2)}
+#videos .video-section .video-part .embed-responsive-item,
+#videos .video-section .video-part .embed-responsive-item:before{border-radius:3px}
+#videos .video-section .video-part .embed-responsive-item .play-wrapper{-webkit-transform:scale(1);background-color:#fff;border-radius:50%;bottom:0;display:block;height:56px;left:0;margin:auto;position:absolute;right:0;top:0;transform:scale(1);transition:all .1s ease-in-out;width:56px}
+#videos .video-section .video-part .embed-responsive-item .play-wrapper .icon{color:#222;display:block;font-size:20px;line-height:58px;text-align:center}
+#videos .video-section .video-part .embed-responsive-item:hover .play-wrapper{-webkit-transform:scale(1.075);transform:scale(1.075)}@media (max-width:1199.98px){
+#videos .video-section .content-part .video-title{font-size:30px;margin-bottom:13px}
+#videos .video-section .content-part .video-description{font-size:15px}}@media (max-width:991.98px){
+    #videos .video-section .content-part{margin-bottom:25px}}@media (max-width:767.98px){
+    #videos .video-section .content-part .video-title{font-size:28px}
+#videos .video-section .content-part .video-description{font-size:14px}}
+
